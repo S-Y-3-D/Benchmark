@@ -15,7 +15,7 @@ This repository contains a script to validate a trained YOLOv5 detection model o
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/ultralytics/yolov5.git
+    git clone https://github.com/S-Y-3-D/Benchmark.git
     cd yolov5
     ```
 
