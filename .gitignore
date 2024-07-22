@@ -1,0 +1,43 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Other files
+tmp/
+runs/
+# IDE files
+.vscode/
+.pytest_cache/
+.ipynb_checkpoints/
+*.iml
+*.ipynb
+
+# PyCharm files
+.idea/
+*.iml
+out/
+
+# Virtual environment files
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.old
+*.orig
+*.rej
+*.swp
+*.bak
+*.py.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
