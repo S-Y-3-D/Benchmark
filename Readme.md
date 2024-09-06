@@ -4,7 +4,7 @@ The models included in the repository ready to be tested:
 
 - Yolov5 Testing ✔️
 - Yolov6 Testing ❌
-- Yolov7 Testing ❌
+- Yolov7 Testing ✔️
 - Yolov8 Testing ✔️
 
 ## YOLOv5 Testing Benchmark
